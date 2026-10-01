@@ -1,0 +1,9 @@
+{
+  "name": "FitLife - Modern Fitness & Wellness",
+  "description": "Premium fitness and wellness companion featuring personalized home and gym workouts, guided yoga, tailored nutrition, and comprehensive progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
